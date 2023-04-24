@@ -1,2 +1,3 @@
 # PreCourse_Henry
-Este es un repositorio del módulo 2 del PreCourse Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde git bash a mi escritorio local
+Josue Requena
